@@ -1,0 +1,41 @@
+
+h1 {
+  color: red;
+}
+
+h2 {
+    background-color: green;
+    color: white;
+    font-size: 18px;
+    padding: 5px;
+}
+
+span {
+    color: red;
+
+}
+
+.logo {
+    height: 50px;
+    width: 160px;
+}
+
+.block {
+    background-color: blue;
+    color: white;
+    width: 100px;
+    height: 70px;
+    box-sizing: content-box;
+    margin-bottom: 150px;
+    font-size: 13px;
+}
+
+
+
+ul {
+    border: 2px solid grey;
+}
+
+li {
+    border: 2px solid black;
+}
