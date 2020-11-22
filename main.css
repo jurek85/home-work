@@ -7,12 +7,21 @@ h2 {
     background-color: green;
     color: white;
     font-size: 18px;
+    
+}
+
+h1,h2,p,ul,li{
+    box-sizing: border-box;
     padding: 5px;
 }
 
 span {
     color: red;
 
+}
+
+section .caption{
+    padding: 35px;
 }
 
 .logo {
@@ -32,10 +41,8 @@ span {
 
 
 
-ul {
-    border: 2px solid grey;
-}
+
 
 li {
-    border: 2px solid black;
+    border: 1px solid black;
 }
