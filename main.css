@@ -1,50 +1,49 @@
-
 h1 {
   color: red;
 }
 
 h2 {
-    background-color: green;
-    color: white;
-    font-size: 18px;
-    
+  background-color: green;
+  color: white;
+  font-size: 18px;
 }
 
-h1,h2,p,ul,li{
-    box-sizing: border-box;
-    padding: 5px;
+h1,
+h2,
+p {
+  box-sizing: border-box;
+  padding: 5px;
 }
 
 header .block {
-    background-color: blue;
-    color: white;
-    width: 100px;
-    height: 70px;
-    box-sizing: content-box;
-    margin-bottom: 150px;
-    font-size: 13px;
+  background-color: blue;
+  color: white;
+  width: 100px;
+  height: 70px;
+  box-sizing: content-box;
+  margin-bottom: 150px;
+  font-size: 13px;
 }
 
 span {
-    color: red;
-
+  color: red;
 }
 
-section .caption{
-    padding: 35px;
+section .caption {
+  padding: 35px;
 }
 
 .logo {
-    height: 50px;
-    width: 160px;
+  height: 50px;
+  width: 160px;
 }
 
 section .block {
-    padding-left: 100px;
+  padding-left: 100px;
 }
 
-
 li {
-    border: 1px solid black;
-    margin-left: 30px;
+  border: 1px solid black;
+  margin-left: 5px;
+  font-size: 25px;
 }
