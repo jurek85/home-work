@@ -1,3 +1,4 @@
+
 h1 {
   color: red;
 }
@@ -35,7 +36,7 @@ section .caption {
 
 .logo {
   height: 50px;
-  width: 160px;
+  /* width: 160px; */
 }
 
 section .block {
